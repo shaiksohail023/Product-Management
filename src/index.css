@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import 'react-toastify/dist/ReactToastify.css';
+
+.error{
+    color: red;
+}
+
+.ant-btn{
+    color: #fff !important;
+    background-color: #155dfc !important;
+}
+
+/* body{
+    background-color: #101828;
+} */
+
